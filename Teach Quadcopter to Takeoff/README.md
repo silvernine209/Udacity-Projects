@@ -1,6 +1,5 @@
 # Quadcopter_RL_DDPG
 
-Use Deep Deterministic Policy Gradients with Actor-Critic, Ornstein-Uhlenbeck Noise, and Replay Buffer to teach Quadcoptoer how to fly
 Use Deep Deterministic Policy Gradients with Actor-Critic, Ornstein-Uhlenbeck Noise, and Replay Buffer to teach Quadcoptoer how to reach a target location from ground position, idle, with no moving parts initially.
 
 I spent quite alot of hours to tune hyperparameters and design proper neural networks for Actor and Critic models to yield a satisfying result.
