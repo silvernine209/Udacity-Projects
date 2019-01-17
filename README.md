@@ -1,8 +1,8 @@
 # Udacity - Machine Learning Nanodegree Portfolio
-This repo contains various in-depth machine learning projects completed in process of earning [Machine Learning Nanodegree Certificate](https://graduation.udacity.com/confirm/SASJTP7Y).
+This repo contains various in-depth machine learning projects completed in process of earning [Machine Learning Nanodegree Certificate](https://graduation.udacity.com/confirm/SASJTP7Y) in 2018.
 
 ## Repository Intro
-The purpose of this repository is to showcase my portfolio containing various machine learning projects.
+The purpose of this repository is to showcase my portfolio containing various machine learning projects.  
 
 ### Projects
 * [Deep Learning](https://github.com/silvernine209/Udacity-Projects/tree/master/Deep%20Learning) : Contains projects that used deep learning (CNN&MLP) to perform fairly simple image classifications and prediction.
